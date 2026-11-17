@@ -184,4 +184,4 @@ summaries side by side, each with its reward-model score.
 
 ## Team and contributions
 
-Member 1: *name*. Member 2: *name*. See `docs/CONTRIBUTION_PLAN.md`; each member commits their own work.
+Member 1: Saqib. Member 2: Sameer. See `docs/CONTRIBUTION_PLAN.md`; each member commits their own work.
