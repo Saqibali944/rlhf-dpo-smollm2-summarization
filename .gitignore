@@ -1,0 +1,13 @@
+# model checkpoints are hosted on Hugging Face / Google Drive, never in git
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+
+# local server logs (may contain IP addresses)
+results/logs/streamlit*.txt
